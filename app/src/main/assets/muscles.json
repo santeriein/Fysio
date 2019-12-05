@@ -1,0 +1,32 @@
+[
+  {
+    "lihas": "Hartialihas",
+    "liikkeet": [{
+      "liikkeenNimi": "Hartioiden nosto",
+      "image": "hartioidennosto.png",
+      "instructions": "Tartutaan kiinni venytettävän puolen ranteesta ja viedään venytettävä hartia\nalaspäin. Päätä kallistetaan ja kierretään vastakkaiselle puolelle, kunnes\nvenytys tuntuu hartiassa ja kaulan sivulla.",
+      "repeats": "20",
+      "sets": "4"
+    }]
+  },
+  {
+    "lihas": "Niskalihas",
+    "liikkeet": [{
+      "liikkeenNimi": "Kaxulan ja niskan \nojentajat",
+      "image": "kyynarpaankoukistajat.jpeg",
+      "instructions": "Selkä pidetään suorana. Kädet asetetaan ristiin takaraivolle. Kaula ja niska\nrentoutetaan sekä annetaan käsien oman painon painaa päätä alaspäin.",
+      "repeats": "20",
+      "sets": "4"
+    }]
+  },
+  {
+    "lihas": "Hauislihas",
+    "liikkeet": [{
+      "liikkeenNimi": "Kyynärpään koukistajat",
+      "image": "kyynarpaankoukistajat.jpeg",
+      "instructions": "Seisotaan kylki seinää kohti. Nostetaan venytettävä yläraaja seinää vasten,\nkäännetään olkavarsi sisäkiertoon ja työnnetään hartiaa eteenpäin, kunnes\nvenytys tuntuu olkavarren etupuolella.",
+      "repeats": "20",
+      "sets": "4"
+    }]
+  }
+]

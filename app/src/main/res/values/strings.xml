@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fysio</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="lista">Lista</string>
+    <string name="info">Info</string>
+    <string name="title_activity_show_exercise_from_home">ShowExerciseFromHome</string>
+    <string name="piilota_varoitusteksti">Piilota varoitusteksti</string>
+    <string name="varoitus">VAROITUS</string>
+    <string name="ohjeet">Ohjeet</string>
+</resources>
